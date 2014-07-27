@@ -17,7 +17,7 @@ private:
 	Ui::YaoJiang *ui;
 	QImage img;
 	QTimer *timer;
-	QString names[5];
+	QString names[14];
 	bool flag;
 public slots:
 	void changeflag();
